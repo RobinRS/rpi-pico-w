@@ -17,8 +17,8 @@ The lib folder includes the required libs for the sensors, which were provided b
 
 # Projects
 - Simple home central /projects/home.py
-- Blink blink.py
-- Wifi Scan wlan.oy
+- LED Test [blink.py](https://github.com/RobinRS/rpi-pico-w/blob/main/blink.py)
+- Wifi Scan [wlan.py](https://github.com/RobinRS/rpi-pico-w/blob/main/wlan.py)
 
 
 Best regards,
